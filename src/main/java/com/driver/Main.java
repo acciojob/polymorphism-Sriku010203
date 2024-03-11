@@ -6,6 +6,7 @@ public class Product{
   }
   public double product(double x,double y){
   }
+}
 
 public class Main {
   Product p=new Product(1,2);

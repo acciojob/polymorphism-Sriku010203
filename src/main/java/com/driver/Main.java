@@ -1,10 +1,10 @@
 package com.driver;
 public class Product{
-  public int Product(int x,int y){
+  public Product(int x,int y){
   }
-  public int Product(int x,int y,int z){
+  public Product(int x,int y,int z){
   }
-  public double Product(double x,double y){
+  public Product(double x,double y){
   }
 }
 public class Main {

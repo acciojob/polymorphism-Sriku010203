@@ -9,6 +9,8 @@ public class Product{
 
 public class Main {
   Product p=new Product(1,2);
+  Product p=new Product(1,2,3);
+  Product p=new product(1.0,2.0);
   
   
 
